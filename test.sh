@@ -4,3 +4,4 @@ ls
 echo date 
 echo "new code added"
 echo " trigger testing "
+echo "bye bye"
